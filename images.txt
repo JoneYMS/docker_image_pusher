@@ -1,4 +1,1 @@
-nginx
-#支持私库
-hanhongyong/baidu_backup
 alist/alist:latest
